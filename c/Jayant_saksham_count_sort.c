@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
-int findMax(int A[], int n){
+int findMax(int A[10], int n){
     int i,max;
     max=A[0];
-    for(i=1;i<n;i++){
+    for(i=1;i<9;i++){
         if(A[i]>max){
             max=A[i];
         }
@@ -18,7 +18,7 @@ void countSort(int A[], int n){
     for(i=0;i<(max+1);i++){
         count[i]=0;
     }
-    for(i=0;i<n;i++){
+    for(i=0;i<9;i++){
         count[A[i]]++;
     }
     i=0,j=0;
