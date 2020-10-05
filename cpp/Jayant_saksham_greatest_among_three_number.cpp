@@ -2,19 +2,16 @@
 using namespace std;
 int main(){
     int a,b,c;
-    cout<<"Enter a: ";
-    cin>>a;
-    cout<<"Enter b: ";
-    cin>>b;
-    cout<<"Enter c: ";
-    cin>>c;
-    int result=0;
+    cout<<"Enter values a,b,c: ";
+    cin>>a>>b>>c;
+    
+    int max=0;
     if(a>b){
-        result=a>c?a:result=c;
+        Max=a>c?a:max=c;
     }
     else{
-        result=b>c?b:c;
+        Max=b>c?b:c;
     }
-    cout<<"Greatest number is "<<result<<endl;
+    cout<<"Greatest number is "<<max<<endl;
     return 0;
 }
