@@ -4,6 +4,6 @@ If you have contributed to this repository, kindly add your username here
 
 
 - [SanjayDevtech](https://github.com/SanjayDevTech)
-- [hritikkhurana10sm](https://github.com/hritikkhurana10sm)
+- [dineshrathodo3](https://github.com/dineshrathod03)
 - [codebook-2000](https://github.com/codebook-2000)
-- [Giancarmine](https://github.com/Giancarmine)
+- [omkarkurund](https://github.com/omkarkurund)
