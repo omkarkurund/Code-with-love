@@ -1,8 +1,8 @@
-# Cpp or c
+# C or CPP
 *.exe
 
 # Python
-___pycache___//
+__pycache__/
 
-# kotlin or java
+# java or kotlin
 *.class
